@@ -1,8 +1,7 @@
-<p align="center"><img src="https://github.com/XiaofeiTJU/EdgeSim/blob/master/images/Logo.png"></p>
+<p align="center"><img src="https://github.com/XiaofeiTJU/EdgeSim/blob/master/src/main/resources/images/Logo.png"></p>
 
 ----
 ## About EdgeSim
-![Build Status](https://travis-ci.com/XiaofeiTJU/EdgeSim.svg?token=py9hxdKvrcD4MPz5n1nH&branch=master) <br>
 An open-source simulator of edge computing and caching.
 
 ----
